@@ -26,8 +26,10 @@ nano ~/.bashrc
 **Step-2**
 
 The `bashrc file` will open in your terminal. Use arrow-keys and Page-Down to reach end of the file.
-Paste the whole content of `wsl2win_converter.bash` file.
-If your `bashrc file` is open in `nano`, this is how to save the changes and exit:
+Paste the whole content of [wsl2win_converter.bash](./wsl2winconverter.bash) file.
+
+After pasting, you will need to save the added code to the bashrc file.
+If your `bashrc file` is open in `nano` editor, this is how to save the changes and exit:
 Press `Ctrl + X`, then `y`, followed by `Enter`.
 
 **Step-3**
