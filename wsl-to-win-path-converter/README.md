@@ -1,6 +1,3 @@
-# In my daily workflow, I use some codes that help me work better.
-Feel free to modify, improve and use for your purpose.
-
 ## 1. WSL to Windows Path Converter
 I use Windows Subsystem for Linux (WSL) in my Windows environment.
 Challenge: Whenever I request a file path, most of them are returned in WSL format. (The <username> would be your WSL system username.)
