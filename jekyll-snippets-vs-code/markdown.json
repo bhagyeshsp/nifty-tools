@@ -1,0 +1,20 @@
+{
+    "Jekyll URL": {
+      "prefix": "jurl",
+      "body": ["{{'/$1' | relative_url}}"],
+      "description": "Insert Jekyll relative URL",
+      "scope": "markdown"
+    },
+    "Jekyll Markdown Link": {
+      "prefix": "jlink",
+      "body": ["[$1]({{'/$2' | relative_url}})"],
+      "description": "Insert Jekyll markdown link with relative URL",
+      "scope": "markdown"
+    },
+    "Jekyll Post Link": {
+      "prefix": "jpost",
+      "body": ["[$1]({{ site.baseurl }}{% post_url 2023-10-01-my-post %})"],
+      "description": "Insert Jekyll post's URL URL",
+      "scope": "markdown"
+    }
+  }
