@@ -1,4 +1,4 @@
-# Nift Tools Useful in daily programming work
+# Nifty Tools Useful in daily programming work
 
 In my daily workflow, I use some codes that help me work better.
 Feel free to modify, improve and use for your purpose.
